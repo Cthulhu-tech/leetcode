@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "jest": "^28.1.3"
+  },
+  "name": "leetcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cthulhu-tech/leetcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cthulhu-tech/leetcode/issues"
+  },
+  "homepage": "https://github.com/Cthulhu-tech/leetcode#readme",
+  "description": ""
+}
