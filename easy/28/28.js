@@ -2,7 +2,7 @@ const strStr = (haystack, needle) => {
 
     let res = -1;
 
-    for(let i = 0; i < (haystack.length + 1 - needle.length); i++){
+    for(let i = 0; i <= (haystack.length - needle.length); i++){
 
         for(let j = 0; j < needle.length; j++){
 
